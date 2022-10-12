@@ -26,4 +26,4 @@ Python dependencies:
 # Workings
 - The Arduino board gets values from the potentiometer and sends it to your PC running Python via serial (USB).
 - The Python code on your PC gets the data from arduino using the pyserial library.
-- Audio modules from the pycaw library are then utilized to macth the potentiometer values to your PC volume values. 
+- Audio modules from the pycaw library are then utilized to match the potentiometer values to your PC volume values. 
